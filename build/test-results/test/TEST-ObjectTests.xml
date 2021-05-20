@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ObjectTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-05-17T17:29:41" hostname="MICHAEL" time="0.031">
+  <properties/>
+  <testcase name="reimbursementConstructorTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="employeeSetVars()" classname="ObjectTests" time="0.001"/>
+  <testcase name="employeeNoParamConstructorTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="employeeToString()" classname="ObjectTests" time="0.002"/>
+  <testcase name="employeeConstructorTest()" classname="ObjectTests" time="0.003"/>
+  <testcase name="reimbursementNoParamTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="managerNoParamConstructorTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="managerToString()" classname="ObjectTests" time="0.002"/>
+  <testcase name="managerSetVars()" classname="ObjectTests" time="0.001"/>
+  <testcase name="managerConstructorTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="approvalAndDenialTest()" classname="ObjectTests" time="0.001"/>
+  <testcase name="reimbursementToString()" classname="ObjectTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

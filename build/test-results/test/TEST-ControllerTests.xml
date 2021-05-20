@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-17T17:29:36" hostname="MICHAEL" time="3.574">
+  <properties/>
+  <testcase name="testManagerLogin()" classname="ControllerTests" time="2.346"/>
+  <testcase name="testGetEmployeeReimbursements()" classname="ControllerTests" time="0.808"/>
+  <testcase name="testEmployeeLogin()" classname="ControllerTests" time="0.1"/>
+  <testcase name="testEmployeeSearch()" classname="ControllerTests" time="0.031"/>
+  <testcase name="testGetAllEmployees()" classname="ControllerTests" time="0.035"/>
+  <testcase name="testGetEmployeeInformation()" classname="ControllerTests" time="0.116"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

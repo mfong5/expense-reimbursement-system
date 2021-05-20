@@ -1,0 +1,116 @@
+2021-05-17 00:09:18,175 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 00:37:53,394 INFO d.MongoDao [qtp1179381257-17] Employee (User) has logged in.
+2021-05-17 00:37:56,915 INFO d.MongoDao [qtp1179381257-12] Employee (User) has changed their password.
+2021-05-17 00:38:10,889 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 01:17:32,418 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 01:19:54,656 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 01:20:13,173 INFO d.MongoDao [qtp1179381257-15] Employee (User) has logged in.
+2021-05-17 01:20:34,767 INFO d.MongoDao [qtp1179381257-17] Employee (User1) has logged in.
+2021-05-17 01:20:52,848 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 01:21:05,403 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 02:21:19,006 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 02:31:55,613 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 02:43:41,464 INFO d.MongoDao [qtp1179381257-14] Manager (Michael) has logged in.
+2021-05-17 02:46:10,242 INFO d.MongoDao [qtp1179381257-14] Manager (Michael) has logged in.
+2021-05-17 02:47:42,981 INFO d.MongoDao [qtp1179381257-14] Manager (Michael) has logged in.
+2021-05-17 02:50:35,225 INFO d.MongoDao [qtp1179381257-16] Manager (Michael) has logged in.
+2021-05-17 02:52:08,631 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 02:54:29,067 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 02:55:01,608 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 02:56:37,917 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 02:59:06,388 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 03:00:30,264 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 03:05:14,545 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 03:11:21,452 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 03:40:48,715 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 03:51:18,239 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 03:51:43,469 INFO d.MongoDao [qtp1179381257-16] Manager (Michael) has logged in.
+2021-05-17 03:54:16,747 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 03:55:27,821 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 03:56:25,326 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 03:56:57,838 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 03:58:22,164 INFO d.MongoDao [qtp1179381257-16] Manager (Michael) has logged in.
+2021-05-17 03:58:26,555 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 03:59:38,669 INFO d.MongoDao [qtp1179381257-16] Manager (Michael) has logged in.
+2021-05-17 04:10:06,627 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:11:44,785 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 04:16:06,704 INFO d.MongoDao [qtp1179381257-12] Employee (User) has logged in.
+2021-05-17 04:16:14,049 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 04:17:18,386 INFO d.MongoDao [qtp1179381257-17] Employee (User) has logged in.
+2021-05-17 04:17:54,180 INFO d.MongoDao [qtp1179381257-12] Employee (User) has logged in.
+2021-05-17 04:21:25,562 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 04:23:49,847 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:27:45,159 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:28:37,392 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 04:29:28,729 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:30:08,906 INFO d.MongoDao [qtp1179381257-14] Manager (Michael) has logged in.
+2021-05-17 04:34:01,139 INFO d.MongoDao [qtp1179381257-11] Employee (User) has logged in.
+2021-05-17 04:34:10,951 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 04:35:41,844 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 04:37:30,087 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:38:11,560 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:38:41,637 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 04:39:15,320 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 04:39:37,329 INFO d.MongoDao [qtp1179381257-12] Manager (Michael) has logged in.
+2021-05-17 04:40:41,102 INFO d.MongoDao [qtp1179381257-11] Manager (Michael) has logged in.
+2021-05-17 04:41:06,530 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 04:41:10,014 INFO d.MongoDao [qtp1179381257-12] Reimbursement request from employee (User) has been resolved.
+2021-05-17 04:41:52,064 INFO d.MongoDao [qtp1179381257-17] Reimbursement request from employee (User) has been resolved.
+2021-05-17 04:42:48,604 INFO d.MongoDao [qtp1179381257-17] Manager (Michael) has logged in.
+2021-05-17 04:42:52,575 INFO d.MongoDao [qtp1179381257-15] Reimbursement request from employee (User) has been resolved.
+2021-05-17 04:58:16,494 INFO d.MongoDao [qtp1179381257-16] Manager (Michael) has logged in.
+2021-05-17 04:59:12,006 INFO d.MongoDao [qtp1179381257-13] Manager (Michael) has logged in.
+2021-05-17 04:59:16,834 INFO d.MongoDao [qtp1179381257-17] Reimbursement request from employee (User1) has been resolved.
+2021-05-17 05:00:46,632 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 05:01:07,651 INFO d.MongoDao [qtp1179381257-17] Employee (User) has logged in.
+2021-05-17 05:01:39,197 INFO d.MongoDao [qtp1179381257-11] Employee (User) has created a new reimbursement request.
+2021-05-17 05:01:51,348 INFO d.MongoDao [qtp1179381257-18] Manager (Michael) has logged in.
+2021-05-17 05:02:10,328 INFO d.MongoDao [qtp1179381257-15] Reimbursement request from employee (User) has been resolved.
+2021-05-17 05:37:52,635 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 05:38:16,703 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 05:46:33,776 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 05:47:46,967 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 05:47:47,032 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 05:50:55,382 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 05:50:55,486 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 06:27:44,124 INFO d.MongoDao [qtp1179381257-15] Employee (User) has logged in.
+2021-05-17 06:29:43,177 INFO d.MongoDao [qtp1179381257-15] Employee (User) has logged in.
+2021-05-17 06:30:16,063 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 06:30:44,355 INFO d.MongoDao [qtp1179381257-16] Employee (User) has logged in.
+2021-05-17 06:31:42,037 INFO d.MongoDao [qtp1179381257-16] Employee (User) has logged in.
+2021-05-17 07:01:46,518 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:01:46,633 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:03:42,567 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:03:42,746 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:05:58,295 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:05:58,458 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:05:58,547 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:07:49,233 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:07:49,324 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:07:49,457 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:07:49,539 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:08:57,534 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:08:57,600 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:08:57,866 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:08:58,003 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:11:04,863 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:11:05,017 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:11:05,161 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 07:11:05,265 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 07:11:55,945 INFO d.MongoDao [qtp1179381257-13] Employee (User) has logged in.
+2021-05-17 07:12:33,759 INFO d.MongoDao [qtp1179381257-18] Manager (Michael) has logged in.
+2021-05-17 07:25:08,523 INFO d.MongoDao [qtp1179381257-15] Employee (User) has logged in.
+2021-05-17 07:25:19,681 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 10:02:34,808 INFO d.MongoDao [qtp1179381257-16] Employee (User) has logged in.
+2021-05-17 10:03:09,593 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 10:03:09,823 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 10:03:10,305 INFO d.MongoDao [Test worker] Employee (User) has logged in.
+2021-05-17 10:03:11,051 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 11:53:38,400 INFO d.MongoDao [qtp1179381257-13] Employee (User) has logged in.
+2021-05-17 12:26:31,601 INFO d.MongoDao [qtp1179381257-15] Employee (User) has logged in.
+2021-05-17 12:26:44,214 INFO d.MongoDao [qtp1179381257-15] Employee (User) has changed their password.
+2021-05-17 12:27:17,810 INFO d.MongoDao [qtp1179381257-18] Employee (User) has created a new reimbursement request.
+2021-05-17 12:27:29,993 INFO d.MongoDao [qtp1179381257-15] Manager (Michael) has logged in.
+2021-05-17 12:27:54,838 INFO d.MongoDao [qtp1179381257-18] Reimbursement request from employee (User) has been resolved.
+2021-05-17 12:29:38,480 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.
+2021-05-17 12:29:41,008 INFO d.MongoDao [Test worker] Manager (Michael) has logged in.

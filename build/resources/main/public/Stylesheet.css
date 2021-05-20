@@ -1,0 +1,39 @@
+body {
+  background-color: SteelBlue;
+}
+
+h1 {
+  text-align: center;
+  font: Arial, sans-serif;
+  color:AliceBlue;
+
+}
+
+h2 {
+  text-align: center;
+  font: Arial, sans-serif;
+  color:AliceBlue;
+}
+
+p{
+  text-align: center;
+  font: Arial, sans-serif;
+  color:AliceBlue;
+}
+
+a {
+    display: block;
+    border: 2px solid blue;
+    width: auto;
+    margin: auto;
+    background-color: cadetblue;
+    text-align: center;
+    font: 20px Arial, sans-serif;
+    color:AliceBlue;
+}
+
+form{
+    text-align: center;
+    font: 30px Helvetica, sans-serif;
+    color:white;
+}

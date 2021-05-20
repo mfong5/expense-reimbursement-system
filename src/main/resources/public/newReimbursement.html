@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reimbursement Request Submission</title>
+    <link rel="stylesheet" href="Stylesheet.css">
+</head>
+<body>
+    <form method="post" action="/Employees/NewReimbursement">
+        <label for="expense">Expense:</label>
+        <input type="number" id="expense" name="expense" min="0"><br><br>
+
+        <label for="reason">Reason:</label>
+        <input type="text" id="reason" name="reason"><br><br>
+        <input type="submit" value="Submit"><br><br><br><br>
+    </form>
+    <a href="/EmployeeHome">Go back</a>
+</body>
+</html>
