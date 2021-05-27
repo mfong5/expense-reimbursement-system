@@ -21,3 +21,12 @@ An application for employees to use to request for reimbursements on various wor
 
 ## Getting Started
 
+In your command line, run ``git clone https://github.com/mfong5/expense-reimbursement-system``
+To run the project go to src/main/java in the cloned directory and run ``java Main``
+
+## Usage
+
+Users may login to the application through the employee portal and managers will use the manager portal. Employees will be able to select 4 options:
+<img src="images/Example.png">
+Click on each bar to access their stated function.
+
